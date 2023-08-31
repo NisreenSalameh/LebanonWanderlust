@@ -24,9 +24,8 @@ culture of Lebanon. Discover ancient history, vibrant cities, and breathtaking l
 git clone https://github.com/NisreenSalameh/LebanonWanderlust.git
 ```
 2. Open the project folder in your preferred code editor.
-3. Customize the content, styles, and images to fit your educational offerings.
-4. Add your own courses, teacher profiles, and reviews to enhance the website's content.
-5. Host the website on a web server to make it accessible online.
+3. Customize the content, styles, and images.
+4. Host the website on a web server to make it accessible online.
 
 ## Technologies Used
 - HTML5
